@@ -1,10 +1,10 @@
 # EXPANSE: A Deep Continual / Progressive Learning System for Deep Transfer Learning (Submitted to NeurIPS 2022)
 A new methodology for deep transfer learning, which opens the possibility of continual deep learning while tackling the catastrophic forgetting dilemma and the overly biased pre-trained model issue.
 
-In this set of experiments we evaluate different aspects of EXPANSE system. The details of experiments and analysis of the results are available in the paper. The following notebooks are created using Google Colaboratory. 
+In this set of experiments, we evaluate different aspects of the EXPANSE system. The details of the experiments and analysis of the results are available in the paper. The following notebooks are created using Google Colaboratory. 
 
 1) EXPANSE_two_steps_training.ipynb<br>
-    Evaluates the two-step training using "perfect_digits.png" as a source of perfected data on MNIST datasets.
+    Evaluates the two-step training using "perfect_digits.png" (because of anonymizing the codes, you need to update the reading URL) as a source of perfected data on MNIST datasets.
 2) EXPANSE_model_expansion.ipynb<br>
     Evaluates model expansion a long with two-step training on MNIST datasets.
 3) EXPANSE_on_MNIST_to_compare_with_top_known_DNN_Model.ipynb<br>
