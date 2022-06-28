@@ -6,7 +6,7 @@ In this set of experiments, we evaluate different aspects of the EXPANSE system.
 1) EXPANSE_two_steps_training.ipynb<br>
     Evaluates the two-step training using "perfect_digits.png" (because of anonymizing the codes, you need to update the reading URL) as a source of perfected data on MNIST datasets.
 2) EXPANSE_model_expansion.ipynb<br>
-    Evaluates model expansion a long with two-step training on MNIST datasets.
+    Evaluates model expansion along with two-step training on MNIST datasets.
 3) EXPANSE_on_MNIST_to_compare_with_top_known_DNN_Model.ipynb<br>
     We applied EXPANSE on an existing best performed DNN model on MNIST to verify if it can improve it.
 4) EXPANSE_on_MNIST_using_10_percent_of_first_step_training_data_on_second_step.ipynb<br>
